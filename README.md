@@ -9,7 +9,7 @@ ___
 En la primera imagen se muestra el tablero inicial, con el jugador que empieza
 
 ![img2](./assets/imgmd/img2.png)
-En la segunda se observa en final de una partida, en la cual ha ganado el jugador azul, ya que ha conseguido realizar las 4 en raya, marcándose el resultado ganador
+En la segunda se observa el final de una partida, en la cual ha ganado el jugador azul, ya que ha conseguido realizar las 4 en raya, marcándose el resultado ganador
 
 ___
 
