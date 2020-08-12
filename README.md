@@ -14,7 +14,7 @@ En la segunda se observa el final de una partida, en la cual ha ganado el jugado
 ___
 
 ## CÓMO JUGAR
-
+Existen varias alternativas para ejecutar el juego:
 1. Clonar el repositorio y **ejecutar** el **index.html**
 2. Aprovechando la herramienta de GitHub Pages desde el siguiente enlace:
 
